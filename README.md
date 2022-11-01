@@ -102,7 +102,9 @@ Being passionate about different computer science branches including both of sof
 ### 🏛 Université Paris Cité
 
 🎓 Master, Computer Science • 🗓 2013-2015
-
+- French Government Scholarship holder 2013-2014
+- Graduated with honors
 ### 🏛 ITMO University 
 
 🎓 Bachelor of Technology, Informatics and Computer Science • 🗓 2009-2013
+- Graduated with honors
