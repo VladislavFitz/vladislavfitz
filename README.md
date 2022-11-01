@@ -8,7 +8,7 @@
 
 Over 9 years of software development experience
 
-Worked on a variety mobile and general-purpose B2B and B2C applications, libraries, and SDKs using different technologies.
+Participated  in the development of a variety mobile and general-purpose b2b and b2c applications, libraries, and SDKs using different technologies.
 
 Being passionate about different computer science branches including both of software and hardware fields, I am especially keen on the possibilities provided by the mobile technologies. I love solving different software engineering and algorithmically complex tasks. I am always motivated to learn new things and get some new exciting experience.
 
