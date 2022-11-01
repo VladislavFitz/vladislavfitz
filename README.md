@@ -95,7 +95,7 @@ Being passionate about different computer science branches including both of sof
 
 - [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) Space shooter game using Sprite Kit
 - [Visalto](github.com/VladislavFitz/Visalto) Asynchronous image loading library
-- [Algolia Swift API Client](github.com/VladislavFitz/algoliasearch-client-swift-modern)
+- [Algolia Swift API Client](github.com/VladislavFitz/algoliasearch-client-swift-modern) Unnoficial Algolia Swift API client supporting async/await and modern APIs
 
 ## Education
 
