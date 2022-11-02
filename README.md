@@ -74,7 +74,7 @@ Being passionate about different computer science branches including both of sof
 
 ### 🏢 Nunki 
 
-🌐 [nunki.co](www.nunki.co) • 📍 Paris area, France | 
+🌐 [nunki.co](www.nunki.co) • 📍 Paris area, France
 
 👨🏻‍💻 iOS Developer • 🗓 Jul 2014 - Oct 2014 (8 months)
 
