@@ -41,7 +41,7 @@ Being passionate about different computer science branches including both of sof
 - [InstantSearch iOS SDK](https://github.com/algolia/instantsearch-ios) (building blocks for search and discovery experiences on iOS, macOS, tvOS, watchOS) design, development and maintenance
 - [Flutter SDK](https://pub.dev/packages/algolia_helper_flutter) (building blocks for search and discovery experiences for Dart and Flutter) design, development and maintenance
 - [SDK usage data collection library](https://github.com/algolia/instantsearch-telemetry-native) design, development and maintenance
-- [Go API Client](github.com/algolia/algoliasearch-client-go) maintenance
+- [Go API Client](https://github.com/algolia/algoliasearch-client-go) maintenance
 - Documentation, customer resources and tutorials development and support
 
 👨🏻‍💻 iOS Engineer • 🗓 Oct 2018 - Aug 2020 (1 yr 11 mos)
@@ -74,7 +74,7 @@ Being passionate about different computer science branches including both of sof
 
 ### 🏢 Nunki 
 
-🌐 [nunki.co](www.nunki.co) • 📍 Paris area, France
+🌐 [nunki.co](https://www.nunki.co) • 📍 Paris area, France
 
 👨🏻‍💻 iOS Developer • 🗓 Jul 2014 - Oct 2014 (8 months)
 
@@ -84,7 +84,7 @@ Being passionate about different computer science branches including both of sof
 
 ### 🏢 Digital Design
 
-🌐 [digdes.com](www.digdes.com) • 📍 Saint-Petersburg, Russia
+🌐 [digdes.com](https://www.digdes.com) • 📍 Saint-Petersburg, Russia
 
 👨🏻‍💻 Junior iOS Developer • 🗓 Aug 2012 - Aug 2013 (1 yr 1 mo)
 
@@ -93,9 +93,9 @@ Being passionate about different computer science branches including both of sof
 
 ## Personal projects
 
-- [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) Space shooter game using Sprite Kit
-- [Visalto](github.com/VladislavFitz/Visalto) Asynchronous image loading library
-- [Algolia Swift API Client](github.com/VladislavFitz/algoliasearch-client-swift-modern) Unnoficial Algolia Swift API client supporting async/await and modern APIs
+- [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) - space shooter game using Sprite Kit
+- [Visalto](https://github.com/VladislavFitz/Visalto) - asynchronous image loading library
+- [Algolia Swift API Client](https://github.com/VladislavFitz/algoliasearch-client-swift-modern) - unnoficial Algolia Swift API client supporting async/await and modern APIs
 
 ## Education
 
