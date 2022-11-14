@@ -90,14 +90,8 @@ Being passionate about different computer science branches including both of sof
 
 - Developed and maintained iOS application for enterprise content management system (B2B)
 - Participation in development of software solutions for customers’ particular needs
-
-## Personal projects
-
-- [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) - space shooter game using Sprite Kit
-- [Visalto](https://github.com/VladislavFitz/Visalto) - asynchronous image loading library
-- [Algolia Swift API Client](https://github.com/VladislavFitz/algoliasearch-client-swift-modern) - unnoficial Algolia Swift API client supporting async/await and modern APIs
-
-## Education
+ 
+## 📚 Education
 
 ### 🏛 Université Paris Cité
 
@@ -108,3 +102,15 @@ Being passionate about different computer science branches including both of sof
 
 🎓 Bachelor of Technology, Informatics and Computer Science • 🗓 2009-2013
 - Graduated with honors
+
+## 📂 Personal projects
+
+- [Algolia Swift API Client](https://github.com/VladislavFitz/algoliasearch-client-swift-modern) unnoficial Algolia Swift API client supporting async/await and modern APIs
+- [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) space shooter game using Sprite Kit
+- [Visalto](https://github.com/VladislavFitz/Visalto) asynchronous image loading library
+
+## 📺 Conference talks & workshops
+
+- [Mobile Search](https://www.youtube.com/watch?v=DCsZWPMHv6s) (Mobius 2020 Saint-Petersburg)
+- [Dependency managers - gonna catch them all](https://www.youtube.com/watch?v=LFDgq0vRr0w) (Mobius 2021 Moscow)
+- [Build a cross-platform search experience with Flutter and Algolia](https://www.youtube.com/watch?v=ISoRfSYRGG0) (Algolia DevCon 2022)
