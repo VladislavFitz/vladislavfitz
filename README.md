@@ -105,7 +105,8 @@ Being passionate about different computer science branches including both of sof
 
 ## 📂 Personal projects
 
-- [Algolia Swift API Client](https://github.com/VladislavFitz/algoliasearch-client-swift-modern) unnoficial Algolia Swift API client supporting async/await and modern APIs
+- [Algolia Swift API Client (unofficial)](https://github.com/VladislavFitz/algoliasearch-client-swift-modern) unnoficial Algolia Swift API client supporting async/await and modern APIs
+- [Algorithms & Data-Structures](https://github.com/VladislavFitz/Algorithms-Data-Structures) class algorithms and data structures implemented in Swift
 - [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) space shooter game using Sprite Kit
 - [Visalto](https://github.com/VladislavFitz/Visalto) asynchronous image loading library
 
