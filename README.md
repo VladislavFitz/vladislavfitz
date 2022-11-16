@@ -113,5 +113,5 @@ Being passionate about different computer science branches including both of sof
 ## 📺 Conference talks & workshops
 
 - [Mobile Search](https://www.youtube.com/watch?v=DCsZWPMHv6s) (Mobius 2020 Saint-Petersburg)
-- [Dependency managers - gonna catch them all](https://www.youtube.com/watch?v=LFDgq0vRr0w) (Mobius 2021 Moscow)
+- [Dependency managers - Gotta Catch 'Em All!](https://www.youtube.com/watch?v=LFDgq0vRr0w) (Mobius 2021 Moscow)
 - [Build a cross-platform search experience with Flutter and Algolia](https://www.youtube.com/watch?v=ISoRfSYRGG0) (Algolia DevCon 2022)
