@@ -38,7 +38,7 @@ Being passionate about different computer science branches including both of sof
 
 👨🏻‍💻 Senior iOS Engineer • 🗓 Aug 2020 - Present (2 yrs 4 mos)
 
-- [InstantSearch iOS SDK](https://github.com/algolia/instantsearch-ios) (building blocks for search and discovery experiences on iOS, macOS, tvOS, watchOS) design, development and maintenance
+- [InstantSearch iOS SDK](https://github.com/algolia/instantsearch-ios) (building blocks for search and discovery experiences on iOS, macOS, tvOS, watchOS to use with UIKit and SwiftUI) design, development and maintenance
 - [Flutter SDK](https://pub.dev/packages/algolia_helper_flutter) (building blocks for search and discovery experiences for Dart and Flutter) design, development and maintenance
 - [SDK usage data collection library](https://github.com/algolia/instantsearch-telemetry-native) design, development and maintenance
 - [Go API Client](https://github.com/algolia/algoliasearch-client-go) maintenance
