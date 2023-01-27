@@ -36,7 +36,7 @@ Being passionate about different computer science branches including both of sof
 
 📍 Paris area, France • 🌐 [algolia.com](algolia.com)
 
-👨🏻‍💻 Senior iOS Engineer • 🗓 Aug 2020 - Present (2 yrs 4 mos)
+👨🏻‍💻 Senior iOS Engineer • 🗓 Aug 2020 - Present (2 yrs 6 mos)
 
 - [InstantSearch iOS SDK](https://github.com/algolia/instantsearch-ios) (building blocks for search and discovery experiences on iOS, macOS, tvOS, watchOS to use with UIKit and SwiftUI) design, development and maintenance
 - [Flutter SDK](https://pub.dev/packages/algolia_helper_flutter) (building blocks for search and discovery experiences for Dart and Flutter) design, development and maintenance
