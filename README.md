@@ -105,6 +105,7 @@ Being passionate about different computer science branches including both of sof
 
 ## 📂 Personal projects
 
+- [Spbscape](https://github.com/VladislavFitz/spbscape/blob/main/README.md) An app that allows you to explore the architecture of St. Petersburg, my hometown. Not yet available on the App Store. Please contact me to test it via TestFlight.
 - [Algolia Swift SDK (unofficial)](https://github.com/VladislavFitz/algoliasearch-client-swift-modern) unnoficial Algolia Swift SDK supporting async/await and modern APIs
 - [Algorithms & Data-Structures](https://github.com/VladislavFitz/Algorithms-Data-Structures) class algorithms and data structures implemented in Swift
 - [StarDestroyer](https://github.com/VladislavFitz/StarDestroyer) space shooter game using Sprite Kit
