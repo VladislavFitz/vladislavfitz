@@ -4,6 +4,8 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/vlfitc/)
 
+📄 [CV](./CV%20Vladislav%20Fitc.pdf)
+
 ## Working experience
 
 Over 9 years of software development experience
