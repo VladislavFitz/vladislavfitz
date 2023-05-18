@@ -1,10 +1,10 @@
 # Senior Mobile Apps and SDK developer
 
-📍 Saint-Cloud, Hauts-de-Seine, France
-
+📍 Saint-Cloud, Hauts-de-Seine, France 
 💼 [LinkedIn](https://www.linkedin.com/in/vlfitc/)
-
 📄 [CV](./CV%20Vladislav%20Fitc.pdf)
+
+[![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavfitz&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/vladislavfitz/github-readme-stats)
 
 ## Working experience
 
@@ -13,6 +13,8 @@ Over 9 years of software development experience
 Participated  in the development of a variety mobile and general-purpose b2b and b2c applications, libraries, and SDKs using different technologies.
 
 Being passionate about different computer science branches including both of software and hardware fields, I am especially keen on the possibilities provided by the mobile technologies. I love solving different software engineering and algorithmically complex tasks. I am always motivated to learn new things and get some new exciting experience.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavfitz&size_weight=0.5&count_weight=0.5&&langs_count=8&layout=compact)](https://github.com/vladislavfitz/github-readme-stats)
 
 #### 🛠 Technologies
   - Programming languages: Swift, Objective-C, Dart, Go, Java, C/C++, Bash, Python
