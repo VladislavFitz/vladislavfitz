@@ -1,4 +1,4 @@
-# Senior Mobile Apps and SDK developer
+# Senior Software Engineer - Mobile Apps and SDKs
 
 📍 Saint-Cloud, Hauts-de-Seine, France 
 
