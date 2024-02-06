@@ -10,7 +10,7 @@
 
 ## Working experience
 
-Over 9 years of software development experience
+Over 10 years of software development experience
 
 Participated  in the development of a variety mobile and general-purpose b2b and b2c applications, libraries, and SDKs using different technologies.
 
