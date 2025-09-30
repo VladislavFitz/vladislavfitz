@@ -6,8 +6,6 @@
 
 📄 [CV](./CV%20Vladislav%20Fitc.pdf)
 
-[![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavfitz&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/vladislavfitz/github-readme-stats)
-
 ## Working experience
 
 Over 10 years of software development experience
